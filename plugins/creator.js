@@ -5,7 +5,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let _type = (args[0] || '').toLowerCase()
 
 //------- NOMOR
-  let nowner = `${nomorown.split`@`[0163644714]}@s.whatsapp.net`
+  let nowner = `${nomorown.split`@`[]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
 • @${nomorown.split`@`[0]} •
 ------- ${nameown} -------
