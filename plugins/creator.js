@@ -11,9 +11,9 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
-• Berbicaralah yang sopan & tidak spam
+• Owner menerima save contact (0163644714)
+• Owner berhak block tanpa alasan
+• Berbicaralah dengan sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
 • No Telp`
 
