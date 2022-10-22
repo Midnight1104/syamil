@@ -1,5 +1,7 @@
+//FIX BUG BY PUT MEMEKKK
+
 {
-    "name": "Kanna BOT",
+    "name": "Putbotz",
     "version": "2.10.18",
     "description": "RPG WhatsApp BOT",
     "main": "index.js",
@@ -59,7 +61,6 @@
         "hxz-api": "^1.0.1",
         "imgbb-uploader": "^1.3.5",
         "jsdom": "^19.0.0",
-        "knights-canvas": "^1.2.7",
         "lodash": "^4.17.21",
         "lowdb": "^3.0.0",
         "moment-timezone": "^0.5.33",
