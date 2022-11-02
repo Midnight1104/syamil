@@ -11,7 +11,7 @@ import fetch from 'node-fetch'
 
 const defaultMenu = {
   before: `
-┌── ⳹°❀❬ %me ❭❀°
+┌── ⳹°❀❬ BotRulz ❭❀°
 │✎ Hai, %name!
 │
 │✎ Tersisa *%limit Limit*
