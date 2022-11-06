@@ -59,10 +59,10 @@ global.ppulsa2 = '081336990781'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60102408450'
-global.nomorown = '60163644714'
-global.namebot = '𝙍𝙪𝙡 𝙙𝙚𝙫'
-global.nameown = '𝙍𝙪𝙡 𝙙𝙚𝙫'
+global.nomorbot = '201554465458'
+global.nomorown = '201550010525'
+global.namebot = 'Midnight'
+global.nameown = 'syamil'
 
 
 /*============== STAFF ==============*/
