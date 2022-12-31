@@ -68,7 +68,7 @@ global.nameown = 'syamil'
 /*============== STAFF ==============*/
 global.owner = [
   ['0'],
-  ['60163644714', '𝙍𝙪𝙡 𝙙𝙚𝙫', true]
+  ['201550010525', 'syamil', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝙍𝙪𝙡 𝙙𝙚𝙫 あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝙍𝙪𝙡 𝙙𝙚𝙫˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙍𝙪𝙡 𝙙𝙚𝙫'
+global.wm = '                「 syamilあ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘syamil˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ syamil'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝙍𝙪𝙡 𝙙𝙚𝙫 Whatsapp ʙᴏᴛ'
+global.titlebot = '🌱 ┊ syamilWhatsapp ʙᴏᴛ'
 global.author = global.wm
 
 
@@ -172,7 +172,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝙍\n𝙪\n𝙡\n-\n𝙙\n𝙚\n𝙫\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎syamil⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 999 // The higher, The harder levelup
 
